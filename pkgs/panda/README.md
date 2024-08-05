@@ -12,7 +12,7 @@
 - Music Player 
 - File Manager
 + privacy: 
-    - pass, keyPassXC, TOR, 
+    - pass, keyPassXC, TOR,age, VPN ,
 + ZIP: 
     - ark, 7zip 
 + Utility: 
